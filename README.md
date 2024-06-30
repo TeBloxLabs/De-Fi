@@ -1,2 +1,10 @@
-# De-Fi
-This repo covers all research and development components of De-Fi executed at TeBlox Labs LLP
+# DEFI-research
+
+## Topics 
+
+* Poly Market
+* Derivates Platform
+* ve(3,3)
+* Rollups
+* Compounds
+* Bridges
